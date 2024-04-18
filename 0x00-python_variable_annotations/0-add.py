@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
-'''sum to float
+'''sum of to float mudle
 '''
 
 
 def add(a: float, b: float) -> float:
+    '''two floating-point numbers.
+    '''
     return a + b
